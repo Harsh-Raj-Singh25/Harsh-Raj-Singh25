@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 - 💡 Passionate about clean code and efficient algorithms.
 
 ### 📊 GitHub Stats
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-Raj-Singh25&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Raj-Singh25&layout=compact&theme=dark)
+![Harsh's Stats](https://github-readme-stats.vercel.app/api?username=Harsh-Raj-Singh25&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Raj-Singh25&layout=compact&theme=tokyonight)
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/harshrs252) | [LeetCode](https://leetcode.com/u/HRScodes/)
