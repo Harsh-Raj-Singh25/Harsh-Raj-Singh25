@@ -26,11 +26,13 @@ Here are some ideas to get you started:
 - 🎓 Also building skills in Automation Testing using **Selenium**.
 - 🛠️ Building real-world scenarios in **OOPS**, **Banking Systems**, and **E-Commerce**.
 - 💡 Passionate about clean code and efficient algorithms.
+- 🏗️ Currently Working On: [QuantityMeasurementApp](https://github.com/Harsh-Raj-Singh25/QuantityMeasurementApp) - A TDD-based unit conversion tool
 
 ### 📊 GitHub Stats
-![Harsh's Stats](https://github-readme-stats.vercel.app/api?username=Harsh-Raj-Singh25&show_icons=true&theme=tokyonight)
+![Harsh's Stats](https://github-readme-stats.vercel.app/api?username=Harsh-Raj-Singh25&show_icons=true&theme=tokyonight&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Raj-Singh25&show_icons=true&theme=tokyonight" alt="Harsh's GitHub stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Raj-Singh25&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Raj-Singh25&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/harshrs252) | [LeetCode](https://leetcode.com/u/HRScodes/)
