@@ -29,10 +29,12 @@ Here are some ideas to get you started:
 - 🏗️ Currently Working On: [QuantityMeasurementApp](https://github.com/Harsh-Raj-Singh25/QuantityMeasurementApp) - A TDD-based unit conversion tool
 
 ### 📊 GitHub Stats
-![Harsh's Stats](https://github-readme-stats.vercel.app/api?username=Harsh-Raj-Singh25&show_icons=true&theme=tokyonight&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Raj-Singh25&show_icons=true&theme=tokyonight" alt="Harsh's GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Raj-Singh25&layout=compact&theme=tokyonight" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Raj-Singh25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Harsh's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Raj-Singh25&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/harshrs252) | [LeetCode](https://leetcode.com/u/HRScodes/)
