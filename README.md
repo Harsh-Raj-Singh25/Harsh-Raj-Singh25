@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 🛠️ Building real-world scenarios in **OOPS**, **Banking Systems**, and **E-Commerce**.
 - 💡 Passionate about clean code and efficient algorithms.
 - 🏗️ Currently Working On: [QuantityMeasurementApp](https://github.com/Harsh-Raj-Singh25/QuantityMeasurementApp) - A TDD-based unit conversion tool
+- 🏗️ Developing a fullstack Expense Tracker Application with Java Springboot + Angular framework
 
 ### 📊 GitHub Stats
 
